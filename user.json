@@ -12,7 +12,7 @@
   },
   "keys": {
     "ARMAAN111": {
-      "status": "banned",
+      "status": "approved",
       "max_devices": 1,
       "expiry_date": "2030-08-26",
       "hwid": []
