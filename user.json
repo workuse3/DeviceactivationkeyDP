@@ -15,7 +15,7 @@
       "status": "approved",
       "expiry_date": "2026-12-31",
       "hwid": [
-        "your_device_id_here",
+        "bd3b7c6c73e14b77",
         "another_device_id_here"
       ]
     },
@@ -25,10 +25,6 @@
       "hwid": [
         "ANY"
       ]
-    },
-    "ARMAAN111": {
-      "status": "approved",
-      "expiry_date": "2099-12-31",
-      "bd3b7c6c73e14b77": [
-        "ANY"
-      
+    }
+  }
+}
