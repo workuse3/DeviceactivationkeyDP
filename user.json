@@ -6,7 +6,6 @@
     "banner_url": "",
     "maintenance": false,
     "banned_devices": [
-      "hacker_hwid_1",
       "spammer_hwid_2",
       "bd3b7c6c73e14b77"
     ]
