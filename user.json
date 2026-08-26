@@ -29,6 +29,6 @@
     "ARMAAN111": {
       "status": "approved",
       "expiry_date": "2099-12-31",
-      "hwid": [
-        "bd3b7c6c73e14b77"
+      "bd3b7c6c73e14b77": [
+        "ANY"
       
