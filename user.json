@@ -4,7 +4,7 @@
     "subtitle": "Copy your Device ID and send it to Admin.",
     "admin_url": "",
     "banner_url": "",
-    "maintenance": true,
+    "maintenance": false,
     "banned_devices": [
       "hacker_hwid_1",
       "spammer_hwid_2",
