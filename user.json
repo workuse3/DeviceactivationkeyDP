@@ -10,13 +10,5 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {
-    "DP-UNIVERSAL": {
-      "status": "approved",
-      "expiry_date": "2099-12-31",
-      "hwid": [
-        "ANY"
-      ]
-    }
-  }
+  "keys": {}
 }
