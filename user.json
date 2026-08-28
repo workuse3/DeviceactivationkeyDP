@@ -7,11 +7,5 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {
-    "DP-JLFM0P": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-08-31"
-    }
-  }
+  "keys": {}
 }
